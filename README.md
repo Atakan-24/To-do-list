@@ -22,27 +22,8 @@ Die To-Do-Liste ist ein einfaches Programm zum Verwalten von Aufgaben. Es ermög
 3. Wenn Sie fertig sind, wählen Sie die Option "Beenden", um das Programm zu schließen.
 
 ## Beispiel
-```
---- ToDo-Liste ---
-1. Aufgabe hinzufügen
-2. Aufgabe bearbeiten
-3. Aufgabe löschen
-4. Aufgaben anzeigen
-5. Beenden
-Bitte wählen Sie eine Option (1-5): 1
-Neue Aufgabe eingeben: Einkaufen gehen
-Aufgabe hinzugefügt: Einkaufen gehen
+![image](https://github.com/Atakan-24/To-do-list/assets/93819298/ddf842ff-276d-4d36-88e7-6fab0ed04c95)
 
---- ToDo-Liste ---
-1. Aufgabe hinzufügen
-2. Aufgabe bearbeiten
-3. Aufgabe löschen
-4. Aufgaben anzeigen
-5. Beenden
-Bitte wählen Sie eine Option (1-5): 4
-ToDo-Liste:
-1. Einkaufen gehen
-```
 
 ### Für Mitwirkende
 
