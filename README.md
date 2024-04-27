@@ -25,25 +25,3 @@ Die To-Do-Liste ist ein einfaches Programm zum Verwalten von Aufgaben. Es ermög
 ![image](https://github.com/Atakan-24/To-do-list/assets/93819298/ddf842ff-276d-4d36-88e7-6fab0ed04c95)
 
 
-### Für Mitwirkende
-
-1. Fork dieses Repository.
-2. Klone deinen Fork lokal.
-3. Installiere die erforderlichen Python-Abhängigkeiten.
-4. Passe das Skript nach Bedarf an und teste deine Änderungen lokal.
-5. Reiche einen Pull-Request ein, wenn du Verbesserungen vorschlagen möchtest.
-
-## Erwartungen an Mitwirkende
-
-- Befolge den Coding-Stil und die Richtlinien des Projekts.
-- Reiche Pull-Requests mit klaren Beschreibungen und Verweisen auf relevante Probleme ein.
-- Teste Änderungen lokal, bevor du Pull-Requests einreichst.
-
-## Bekannte Probleme
-
-- [Liste hier bekannte Probleme oder Fehler auf]
-
-## Unterstützung
-
-Wenn du dieses Projekt hilfreich findest, erwäge, die Entwicklung durch  [donate](https://www.paypal.com/donate/?hosted_button_id=4S77QGBW6FT3W)  zu unterstützen.
-
